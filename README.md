@@ -1,4 +1,4 @@
-# Mesa redonda 28 sep. — dossier web
+# Dossier web sobre IA en EU, ES y UVa
 
 Sitio estático con cinco páginas HTML: índice, dossier España–UE, intervención institucional, soberanía europea y referencias comentadas.
 
